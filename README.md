@@ -1,4 +1,5 @@
 🎮 Hangman Game
+
 A web-based take on the classic word-guessing game Hangman! Your mission? Uncover the hidden word one letter at a time—before the stick figure meets its untimely end. Can you beat the game or will the noose prevail?
 
 🚀 Features
