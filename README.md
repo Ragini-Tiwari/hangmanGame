@@ -25,6 +25,7 @@ If you uncover the full word before your lives are gone, you win!
 Ready for another challenge? Restart and try again with a new word.
 
 📜 License
+
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you like!
 
 
